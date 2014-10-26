@@ -38,9 +38,9 @@ cacheSolve <- function(x, ...) {
 }
 
 ##For testing functions
-d <- matrix(c(1,4,5,2,4,7,11,11,11), 3, 3)
-k <- makeCacheMatrix()
-k$set(d)
-cacheSolve(k)
-cacheSolve(k)
+#d <- matrix(c(1,4,5,2,4,7,11,11,11), 3, 3)
+#k <- makeCacheMatrix()
+#k$set(d)
+#cacheSolve(k)
+#cacheSolve(k)
 
