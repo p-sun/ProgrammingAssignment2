@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## makeCacheMatrix - # creates a matrix that caches it's inverse
+## makeCacheMatrix - # creates a matrix that caches its inverse
 # stores 2 things:
 #1) x, the matrix,     2) i, the matrix's inverse
 # also returns a list of 4 functions
